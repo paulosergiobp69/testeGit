@@ -1,0 +1,4 @@
+<?php
+
+
+echo ' primeira linha ';
